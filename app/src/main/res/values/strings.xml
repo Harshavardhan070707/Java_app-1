@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Taskmanager</string>
+    <string name="task_manager">Task Manager</string>
+    <string name="todo">TODO</string>
+</resources>
